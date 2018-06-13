@@ -1,0 +1,400 @@
+
+.header {
+	width: 100%;
+	height: 600px;
+	background-image:url("backgorund - header.jpg");
+	background-size: cover;
+}
+
+
+
+.title {
+	padding-top: 50px;
+
+}
+.title h2{
+	font-size: 50px;
+	color: white;
+	font-family: Belinda;
+}
+.nav-bar {
+	padding-top: 30px;
+
+	
+}
+.nav-bar a{
+	padding-left: 20px;
+	padding-right: 20px;
+	text-decoration: none;
+	color: white;
+	font-size: 12px;
+	font-family: OpenSans-Semibold;
+}
+
+.slogan{
+	padding-top: 65px;
+}
+.slogan h1{
+	color: white;
+	font-family: UbuntuBold;
+	font-size: 50px;
+}
+.slogan p{
+	padding-top: 30px;
+	color: white;
+	font-family: PTSans-Bold;
+	font-size: 15px;
+}
+.header-button{
+	padding-top: 70px;
+}
+.header-button button{
+	height: 50px;
+	font-size: 15px;
+	width: 14%;
+	background-color: rgb(80,195,175);
+	font-family: PTSans-Bold;
+	border: none;
+	color: white;
+	border-radius: 70px;
+}
+.content{
+
+}
+
+.content-part1{
+	background-color: rgb(238,238,239);
+	height: 280px;
+	padding-top: 60px;
+
+}
+.content-part1 h3{
+	padding-top: 45px;
+	font-family: PTSans-Bold;
+}
+.content-part1 hr{
+	background-image: linear-gradient(90deg, rgb(226,227,228), transparent);
+    height: 2px;
+    border: 0;
+    margin: 1em 0;
+    padding: 0; 
+}
+.content-part1 p{
+	padding-top: 20px;
+	font-family: PTSans-Bold;
+	color: rgb(120,123,128);
+}
+div.inline-part1{
+	display: inline-block;
+	padding-left: 100px;
+	padding-right: 100px;
+	width: 170px
+}
+
+.content-part2{
+	background-color: rgb(245,245,245);
+	height: 525px;
+	padding-top: 65px;
+}
+.content-part2 h3{
+	padding-top: 45px;
+	font-family: PTSans-Bold;
+}
+.content-part2 hr{
+	background-image: linear-gradient(90deg, rgb(233,233,236), transparent);
+    height: 2px;
+    border: 0;
+    margin: 1em 0;
+    padding: 0;
+}
+.content-part2 p{
+	padding-top: 20px;
+	font-family: PTSans-Bold;
+	color: rgb(120,123,128);
+	width: 235px;
+}
+div.inline-part2{
+	display: inline-block;
+	padding-right: 120px;
+	padding-left: 120px;
+	width: auto;
+
+}
+
+
+
+.part2-button{
+	padding-top: 35px;
+}
+.part2-button button{
+	height: 40px;
+	font-size: 13px;
+	width: 35%;
+	background-color: rgb(80,195,175);
+	font-family: PTSans-Regular;
+	border: none;
+	color: white;
+	border-radius: 70px;
+}
+
+
+
+
+.content-part3-wrapper{
+	background-color: rgb(238,238,239);
+	height: 325px;
+}
+.content-part3{
+	width: 60%;
+	padding-top: 65px;
+}
+.content-part3 i{
+	color: #c6cbd1;
+}
+.content-part3 h3{
+	font-family: PTSans-Bold;
+}
+.content-part3 p{
+	padding-top: 20px;
+	font-family: PTSans-Bold;
+	color: rgb(120,123,128);
+
+}
+.content-part3 hr{
+	background-image: linear-gradient(90deg, rgb(226,227,228), transparent);
+    height: 2px;
+    border: 0;
+    margin: 1em 0;
+    padding: 0;
+}
+.part3-button button{
+	margin-top: 25px;
+	height: 40px;
+	font-size: 13px;
+	width: 15%;
+	background-color: #d2d5da;
+	font-family: PTSans-Regular;
+	border: none;
+	color: white;
+	border-radius: 70px;
+}
+
+.content-part4{
+
+	background-color: rgb(245,245,245);
+	height: 500px;
+}
+.content-part4 h3{
+	padding-top: 45px;
+	font-family: PTSans-Bold;
+}
+.content-part4 hr{
+	background-image: linear-gradient(90deg, rgb(233,233,236), transparent);
+    height: 2px;
+    border: 0;
+    margin: 1em 0;
+    padding: 0;
+}
+.content-part4 p{
+	padding-top: 20px;
+	font-family: PTSans-Regular;
+	color: rgb(120,123,128);
+	width: 235px;
+	padding-bottom: 25px;
+}
+.content-part4 a{
+	text-decoration: none;
+	color: #66cab8;
+	font-size: 12px;
+	font-family: PTSans-Regular;
+}
+div.inline-part4{
+	margin-top: 60px;
+	display: inline-block;
+	padding-right: 30px;
+	padding-left: 30px;
+	width: auto;
+
+}
+
+
+.content-part5{
+	background-color: rgb(238,238,239);
+	height: 325px;
+}
+.content-part5 i{
+	padding-right: 10px;
+	color: #c6cbd1;
+}
+div.inline-part5{
+	display: inline-block;
+	padding-right: 80px;
+	padding-left: 80px;
+	width: auto;
+}
+.content-part5 h3{
+	padding-top: 45px;
+	font-family: PTSans-Bold;
+}
+.content-part5 hr{
+	background-image: linear-gradient(90deg, rgb(226,227,228), transparent);
+    height: 2px;
+    border: 0;
+    margin: 1em 0;
+    padding: 0;
+}
+.content-part5 p{
+	padding-top: 20px;
+	font-family: PTSans-Bold;
+	color: rgb(120,123,128);
+	width: 235px;
+}
+.part5-button{
+	padding-top: 35px;
+}
+.part5-button button{
+	height: 40px;
+	font-size: 13px;
+	width: 60%;
+	background-color: rgb(80,195,175);
+	font-family: PTSans-Regular;
+	border: none;
+	color: white;
+	border-radius: 70px;
+}
+
+
+.content-part6{
+	background-color: rgb(245,245,245);
+	height: 325px;
+}
+.content-part6 table{
+	padding-top: 50px;
+	 border-spacing: 120px 0px;
+}
+.content-part6 h3{
+
+	font-family: PTSans-Bold;
+}
+.content-part6 hr{
+	background-image: linear-gradient(90deg, rgb(233,233,236), transparent);
+    height: 2px;
+    border: 0;
+    margin: 1em 0;
+    padding: 0;
+}
+.content-part6 p{
+	
+	font-family: PTSans-Bold;
+	color: rgb(120,123,128);
+	width: 300px;
+}
+.content-part6 td{
+	vertical-align: top;
+}
+
+
+
+
+
+
+
+
+
+.footer{
+	height: 225px;
+	background-color: rgb(80,195,175);
+}
+.footer ul {
+	padding-top: 25px;
+  list-style-type: none;
+}
+
+.footer li {
+	padding-left: 50px;
+	padding-right: 50px;
+	font-size: 35px;
+	display: inline-block;
+	color: #cbede7;
+}
+.footer h3 {
+	font-family: PTSans-Bold;
+	padding-top: 50px;
+	color: #cbede7;
+	font-size: 19px;
+}
+.footer hr{
+	background-image: linear-gradient(90deg, #61c8b6, transparent);
+    height: 2px;
+    border: 0;
+    margin: 1em 0;
+    padding: 0;
+
+}
+.footer i{
+	padding-right: 10px;
+	color: #cbede7;
+}
+.footer-title{
+    width: 22%;
+}
+
+
+
+.copyrighter{
+	height: 60px;
+	background-color: white;
+}
+.copyrighter table{
+	font-size: 15px;
+	color: #787b80;
+	padding-top: 20px;
+	width: 57%
+}
+.copyrighter i{
+	padding-right: 20px;
+	color: #787b80;
+}
+
+
+
+@font-face {
+    font-family: Belinda;
+    src: local("Belinda"), 
+         url(fonts/belinda.otf);
+  }
+@font-face {
+    font-family: UbuntuBold;
+    src: local("UbuntuBold"), 
+         url(fonts/UbuntuBold.ttf); 
+  }
+@font-face {
+    font-family: OpenSans-Semibold; 
+    src: local("OpenSans-Semibold"),
+         url(fonts/OpenSans-Semibold.ttf);
+  }
+@font-face {
+    font-family: PTSans-Bold; 
+    src: local("PTSans-Bold"),
+         url(fonts/PTSans-Bold.ttf);
+  }
+@font-face {
+    font-family: PTSans-Regular; 
+    src: local("PTSans-Regular"),
+         url(fonts/PTSans-Regular.ttf);
+  }
+@font-face {
+    font-family: NexaRegular; 
+    src: local("NexaRegular"),
+         url(fonts/NexaRegular.otf);
+  }
+@font-face {
+    font-family: CabinRegular; 
+    src: local("CabinRegular"),
+         url(fonts/CabinRegular.ttf);
+  }
+@font-face {
+    font-family: NexaHeavy; 
+    src: local("NexaHeavy"),
+         url(fonts/NexaHeavy.otf);
+  }
